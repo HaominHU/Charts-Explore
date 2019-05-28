@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
+## Implementation
+ - Chart.HeatMap implementation
+ - D3 implementation
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
@@ -25,3 +29,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Reference
+1: [Chart.HeatMap](https://github.com/tmroyal/Chart.HeatMap/)
+
+2: [D3 v4](http://bl.ocks.org/ganezasan/dfe585847d65d0742ca7d0d1913d50e1)
