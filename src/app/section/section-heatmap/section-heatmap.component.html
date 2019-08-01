@@ -1,0 +1,17 @@
+<div>
+  <div class="row">
+    <div class="col-md-1"></div>
+    <div class="col-md-10">
+      <div class="card">
+        <div class="card-header text-center">
+          <h4 *ngIf="chartId==1">Chart.js Heatmap</h4>
+          <h4 *ngIf="chartId==2">D3 Heatmap</h4>
+        </div>
+        <div class="card-body">
+          <app-heatmap-chart *ngIf="chartId == 1"></app-heatmap-chart>
+          <app-heatmap-d3 *ngIf="chartId == 2"></app-heatmap-d3>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

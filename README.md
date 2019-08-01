@@ -1,10 +1,12 @@
-# Heatmap
+# Charts
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
 ## Implementation
  - Chart.HeatMap implementation
  - D3 implementation
+ - Chartjs Donut chart
+ - D3 Donut chart
 
 ## Development server
 
@@ -34,3 +36,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 1: [Chart.HeatMap](https://github.com/tmroyal/Chart.HeatMap/)
 
 2: [D3 v4](http://bl.ocks.org/ganezasan/dfe585847d65d0742ca7d0d1913d50e1)
+
+3: [Chartjs Dought](https://www.chartjs.org/docs/latest/charts/doughnut.html)
+
+4: [D3 doughnut](https://www.d3-graph-gallery.com/graph/donut_label.html)
